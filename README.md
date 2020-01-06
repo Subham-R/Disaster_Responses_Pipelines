@@ -20,7 +20,13 @@ NumPy, Pandas, Matplotlib, Json, Plotly, Nltk, Flask, Sklearn, Sqlalchemy, Sys,R
 
 For this project we have data set containing real messages that were sent during disaster events. We have created a machine learning pipeline to categorize these events so that the messages can be flagged to an appropriate disaster relief agency. The project also includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app has display visualizations of the data.
 
+![file1](https://github.com/Subham-R/Disaster_Responses_Pipelines/blob/master/01%20Overview.PNG)
 
+![file2](https://github.com/Subham-R/Disaster_Responses_Pipelines/blob/master/02%20Distribution%20of%20message%20categories.png)
+
+![file3](https://github.com/Subham-R/Disaster_Responses_Pipelines/blob/master/03%20Top%2010%20tokens.png)
+
+![file4](https://github.com/Subham-R/Disaster_Responses_Pipelines/blob/master/04%20Classify%20Message.PNG)
 
 
 
